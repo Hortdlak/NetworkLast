@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="NetworkingCommon">
-      <HintPath>..\NetworkingCommon\bin\Debug\net8.0\NetworkingCommon.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
